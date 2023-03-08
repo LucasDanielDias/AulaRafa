@@ -4,7 +4,6 @@
     <list default="true" id="528da6a1-0d07-4a5c-a725-942f5c5627d8" name="Changes" comment="feat: Cria mais contato">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/newton/linguagem/aula03/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/newton/linguagem/aula03/Agenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/newton/linguagem/aula03/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/newton/linguagem/aula03/Contato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/newton/linguagem/aula03/Telefone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/newton/linguagem/aula03/Telefone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678231904418</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: Cria mais contato">
+      <created>1678236764387</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678236764387</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

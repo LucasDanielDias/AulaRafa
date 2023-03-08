@@ -11,6 +11,7 @@ public class Agenda {
         tel.contato1 = contato1;
         tel.cor = "Vermelho";
         tel.marca = "Iphone";
+        tel.Tocar("tango");
 
         System.out.println(tel.contato1.nome);
         System.out.println(tel.contato1.numero);
@@ -24,6 +25,7 @@ public class Agenda {
         tel2.contato2 = contato2;
         tel2.marca = "iphone";
         tel2.cor = "Pink";
+        tel2.Tocar("funk");
 
         System.out.println(tel2.contato2.nome);
         System.out.println(tel2.contato2.numero);
@@ -37,6 +39,7 @@ public class Agenda {
         tel3.contato3 = contato2;
         tel3.marca = "S20";
         tel3.cor = "Roxo";
+        tel3.Tocar("eletronica");
 
         System.out.println(tel3.contato3.nome);
         System.out.println(tel3.contato3.numero);
@@ -46,3 +49,5 @@ public class Agenda {
 
     }
 }
+
+
